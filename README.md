@@ -1,6 +1,6 @@
 # <div align='center'>Baileys - Typescript/Javascript WhatsApp Web API</div>
 
-<div align="center"><img src="https://iili.io/2Zpjtlp.jpg"></div>
+<div align="center"><img src="https://files.catbox.moe/92c880.png"></div>
 
 ## Important Note
 
@@ -11,12 +11,12 @@ The original repository was initially removed by its creator and subsequently ta
 Install in package.json:
 ```json
 "dependencies": {
-    "baileys": "github:nstar-y/bail"
+    "baileys": "github:LEXXYVDEV/Cannie-InesisX"
 }
 ```
 or install in terminal:
 ```
-npm install baileys@github:nstar-y/bail
+npm install "@whiskeysockets/baileys": "github:LEXXYVDEV/Cannie-InesisX
 ```
 
 Then import the default function in your code:

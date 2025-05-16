@@ -296,7 +296,7 @@ if(usePairingCode && !sock.authState.creds.registered) {
 ```
 
 ## Reporting Issues
-If you encounter any issues while using this repository or any part of it, please feel free to open a [new issue](https://github.com/nstar-y/Bail/issues) here.
+If you encounter any issues while using this repository or any part of it, please feel free to open a [new issue](https://github.com/LEXXYVDEV/Cannie-InesisX/issues) here.
 
 ## Notes
 Everything other than the modifications mentioned above remains the same as the original repository. You can check out the original repository at [WhiskeySockets](https://github.com/WhiskeySockets/Baileys)
